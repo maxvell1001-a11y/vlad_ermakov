@@ -1,5 +1,5 @@
-name = "Владислав"
-age = 29
+name = "Владлен"
+age = 18
 height = 111.1
 print("Имя:", name)
 print("Возраст:", age)
