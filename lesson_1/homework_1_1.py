@@ -1,5 +1,3 @@
-from pstats import count_calls
-
 name = "Владислав"
 age = 29
 height = 111.1
