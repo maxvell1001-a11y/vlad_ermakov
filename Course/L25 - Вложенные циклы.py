@@ -23,8 +23,7 @@
 # matrix = [
 #     [3, -2, 7, -9],
 #     [-1, 6, -5, 4],
-#     [8, -7, 3, -2]
-# ]
+#     [8, -7, 3, -2]]
 #
 # for i in range(len(matrix)):
 #     for j in range(len(matrix[i])):
