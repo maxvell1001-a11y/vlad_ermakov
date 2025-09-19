@@ -1,0 +1,1 @@
+print("Модуль reload_test загружен!")
