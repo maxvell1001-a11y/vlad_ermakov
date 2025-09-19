@@ -1,8 +1,8 @@
 # Задание 1:
 
 def uppercase_decorator(func):
-    def wrapper():
-        result = func()
+    def wrapper(*args, **kwargs):
+        result = func(*args, **kwargs)
         return result.upper()
     return wrapper
 
@@ -10,7 +10,7 @@ def uppercase_decorator(func):
 def say_hello():
     return "hello, world!"
 
-print(say_hello())
+print(say_hello())  # "HELLO, WORLD!"
 
 # Задание 2:
 
